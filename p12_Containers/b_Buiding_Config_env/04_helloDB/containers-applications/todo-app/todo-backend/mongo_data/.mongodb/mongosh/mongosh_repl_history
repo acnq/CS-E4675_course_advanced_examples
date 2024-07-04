@@ -1,0 +1,5 @@
+db.todos.find({})
+show collections
+use the_database
+show dbs
+mongo cli
